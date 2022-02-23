@@ -1,0 +1,16 @@
+D:\Documents\Proyectos-csharp\Leer_teclado\bin\Debug\net5.0\Leer_teclado.exe
+D:\Documents\Proyectos-csharp\Leer_teclado\bin\Debug\net5.0\Leer_teclado.deps.json
+D:\Documents\Proyectos-csharp\Leer_teclado\bin\Debug\net5.0\Leer_teclado.runtimeconfig.json
+D:\Documents\Proyectos-csharp\Leer_teclado\bin\Debug\net5.0\Leer_teclado.runtimeconfig.dev.json
+D:\Documents\Proyectos-csharp\Leer_teclado\bin\Debug\net5.0\Leer_teclado.dll
+D:\Documents\Proyectos-csharp\Leer_teclado\bin\Debug\net5.0\ref\Leer_teclado.dll
+D:\Documents\Proyectos-csharp\Leer_teclado\bin\Debug\net5.0\Leer_teclado.pdb
+D:\Documents\Proyectos-csharp\Leer_teclado\obj\Debug\net5.0\Leer_teclado.csproj.AssemblyReference.cache
+D:\Documents\Proyectos-csharp\Leer_teclado\obj\Debug\net5.0\Leer_teclado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Proyectos-csharp\Leer_teclado\obj\Debug\net5.0\Leer_teclado.AssemblyInfoInputs.cache
+D:\Documents\Proyectos-csharp\Leer_teclado\obj\Debug\net5.0\Leer_teclado.AssemblyInfo.cs
+D:\Documents\Proyectos-csharp\Leer_teclado\obj\Debug\net5.0\Leer_teclado.csproj.CoreCompileInputs.cache
+D:\Documents\Proyectos-csharp\Leer_teclado\obj\Debug\net5.0\Leer_teclado.dll
+D:\Documents\Proyectos-csharp\Leer_teclado\obj\Debug\net5.0\ref\Leer_teclado.dll
+D:\Documents\Proyectos-csharp\Leer_teclado\obj\Debug\net5.0\Leer_teclado.pdb
+D:\Documents\Proyectos-csharp\Leer_teclado\obj\Debug\net5.0\Leer_teclado.genruntimeconfig.cache

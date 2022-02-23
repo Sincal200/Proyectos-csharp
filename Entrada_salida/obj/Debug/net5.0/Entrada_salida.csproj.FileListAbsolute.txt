@@ -1,0 +1,16 @@
+D:\Documents\Proyectos-csharp\Entrada_salida\bin\Debug\net5.0\Entrada_salida.exe
+D:\Documents\Proyectos-csharp\Entrada_salida\bin\Debug\net5.0\Entrada_salida.deps.json
+D:\Documents\Proyectos-csharp\Entrada_salida\bin\Debug\net5.0\Entrada_salida.runtimeconfig.json
+D:\Documents\Proyectos-csharp\Entrada_salida\bin\Debug\net5.0\Entrada_salida.runtimeconfig.dev.json
+D:\Documents\Proyectos-csharp\Entrada_salida\bin\Debug\net5.0\Entrada_salida.dll
+D:\Documents\Proyectos-csharp\Entrada_salida\bin\Debug\net5.0\ref\Entrada_salida.dll
+D:\Documents\Proyectos-csharp\Entrada_salida\bin\Debug\net5.0\Entrada_salida.pdb
+D:\Documents\Proyectos-csharp\Entrada_salida\obj\Debug\net5.0\Entrada_salida.csproj.AssemblyReference.cache
+D:\Documents\Proyectos-csharp\Entrada_salida\obj\Debug\net5.0\Entrada_salida.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Proyectos-csharp\Entrada_salida\obj\Debug\net5.0\Entrada_salida.AssemblyInfoInputs.cache
+D:\Documents\Proyectos-csharp\Entrada_salida\obj\Debug\net5.0\Entrada_salida.AssemblyInfo.cs
+D:\Documents\Proyectos-csharp\Entrada_salida\obj\Debug\net5.0\Entrada_salida.csproj.CoreCompileInputs.cache
+D:\Documents\Proyectos-csharp\Entrada_salida\obj\Debug\net5.0\Entrada_salida.dll
+D:\Documents\Proyectos-csharp\Entrada_salida\obj\Debug\net5.0\ref\Entrada_salida.dll
+D:\Documents\Proyectos-csharp\Entrada_salida\obj\Debug\net5.0\Entrada_salida.pdb
+D:\Documents\Proyectos-csharp\Entrada_salida\obj\Debug\net5.0\Entrada_salida.genruntimeconfig.cache

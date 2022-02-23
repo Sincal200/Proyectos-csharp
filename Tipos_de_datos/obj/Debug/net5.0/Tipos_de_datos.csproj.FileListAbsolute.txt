@@ -1,0 +1,16 @@
+D:\Documents\Proyectos-csharp\Tipos_de_datos\bin\Debug\net5.0\Tipos_de_datos.exe
+D:\Documents\Proyectos-csharp\Tipos_de_datos\bin\Debug\net5.0\Tipos_de_datos.deps.json
+D:\Documents\Proyectos-csharp\Tipos_de_datos\bin\Debug\net5.0\Tipos_de_datos.runtimeconfig.json
+D:\Documents\Proyectos-csharp\Tipos_de_datos\bin\Debug\net5.0\Tipos_de_datos.runtimeconfig.dev.json
+D:\Documents\Proyectos-csharp\Tipos_de_datos\bin\Debug\net5.0\Tipos_de_datos.dll
+D:\Documents\Proyectos-csharp\Tipos_de_datos\bin\Debug\net5.0\ref\Tipos_de_datos.dll
+D:\Documents\Proyectos-csharp\Tipos_de_datos\bin\Debug\net5.0\Tipos_de_datos.pdb
+D:\Documents\Proyectos-csharp\Tipos_de_datos\obj\Debug\net5.0\Tipos_de_datos.csproj.AssemblyReference.cache
+D:\Documents\Proyectos-csharp\Tipos_de_datos\obj\Debug\net5.0\Tipos_de_datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Proyectos-csharp\Tipos_de_datos\obj\Debug\net5.0\Tipos_de_datos.AssemblyInfoInputs.cache
+D:\Documents\Proyectos-csharp\Tipos_de_datos\obj\Debug\net5.0\Tipos_de_datos.AssemblyInfo.cs
+D:\Documents\Proyectos-csharp\Tipos_de_datos\obj\Debug\net5.0\Tipos_de_datos.csproj.CoreCompileInputs.cache
+D:\Documents\Proyectos-csharp\Tipos_de_datos\obj\Debug\net5.0\Tipos_de_datos.dll
+D:\Documents\Proyectos-csharp\Tipos_de_datos\obj\Debug\net5.0\ref\Tipos_de_datos.dll
+D:\Documents\Proyectos-csharp\Tipos_de_datos\obj\Debug\net5.0\Tipos_de_datos.pdb
+D:\Documents\Proyectos-csharp\Tipos_de_datos\obj\Debug\net5.0\Tipos_de_datos.genruntimeconfig.cache

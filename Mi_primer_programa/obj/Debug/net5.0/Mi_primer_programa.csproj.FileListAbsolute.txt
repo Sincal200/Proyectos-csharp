@@ -1,0 +1,16 @@
+D:\Documents\Proyectos-csharp\Mi_primer_programa\bin\Debug\net5.0\Mi_primer_programa.exe
+D:\Documents\Proyectos-csharp\Mi_primer_programa\bin\Debug\net5.0\Mi_primer_programa.deps.json
+D:\Documents\Proyectos-csharp\Mi_primer_programa\bin\Debug\net5.0\Mi_primer_programa.runtimeconfig.json
+D:\Documents\Proyectos-csharp\Mi_primer_programa\bin\Debug\net5.0\Mi_primer_programa.runtimeconfig.dev.json
+D:\Documents\Proyectos-csharp\Mi_primer_programa\bin\Debug\net5.0\Mi_primer_programa.dll
+D:\Documents\Proyectos-csharp\Mi_primer_programa\bin\Debug\net5.0\ref\Mi_primer_programa.dll
+D:\Documents\Proyectos-csharp\Mi_primer_programa\bin\Debug\net5.0\Mi_primer_programa.pdb
+D:\Documents\Proyectos-csharp\Mi_primer_programa\obj\Debug\net5.0\Mi_primer_programa.csproj.AssemblyReference.cache
+D:\Documents\Proyectos-csharp\Mi_primer_programa\obj\Debug\net5.0\Mi_primer_programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Proyectos-csharp\Mi_primer_programa\obj\Debug\net5.0\Mi_primer_programa.AssemblyInfoInputs.cache
+D:\Documents\Proyectos-csharp\Mi_primer_programa\obj\Debug\net5.0\Mi_primer_programa.AssemblyInfo.cs
+D:\Documents\Proyectos-csharp\Mi_primer_programa\obj\Debug\net5.0\Mi_primer_programa.csproj.CoreCompileInputs.cache
+D:\Documents\Proyectos-csharp\Mi_primer_programa\obj\Debug\net5.0\Mi_primer_programa.dll
+D:\Documents\Proyectos-csharp\Mi_primer_programa\obj\Debug\net5.0\ref\Mi_primer_programa.dll
+D:\Documents\Proyectos-csharp\Mi_primer_programa\obj\Debug\net5.0\Mi_primer_programa.pdb
+D:\Documents\Proyectos-csharp\Mi_primer_programa\obj\Debug\net5.0\Mi_primer_programa.genruntimeconfig.cache
